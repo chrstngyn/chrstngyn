@@ -1,6 +1,18 @@
-### Software Engineer
-📍 Phoenix, Arizona
+### 👋🏼 Hello!
 
+Hi, I'm Christine! I am a software engineer at ASU Global Biosocial Complexity Initiative. Feel free to take a look around at my contributions and repos. If you would like to get in touch, I can be reached via email.
+
+### 👩🏻‍💻 What I Do
+
+I collaborate with scientists to design and code research tools like educational games, science gateways for software citation and data analysis applications.
+
+### 🌱 Goals
+
+I am building my skillset to:
+
+- Evolve as a full stack engineer, project manager and interdisciplinary researcher
+- Mentor and teach students in STEM
+- Improve STEM education accessibility and retention for underserved and underrepresented students
 
 ### ⚙️ Skills
 Coding Languages | Frontend     | DevOps    | Backend    | Mobile         | Frameworks/Systems/Software
@@ -13,22 +25,6 @@ Java             | Gatsby       |           | Django     |                | Visu
 C                | Hugo         |           |            |                | MATLAB
 MIPS Assembly    | Tailwind CSS |           |            |                | NVivo
 
-
-### 👋🏼 Hello!
-
-My name is Christine, and I am a software engineer at ASU Global Biosocial Complexity Initiative. Feel free to take a look around at my projects and contributions. If you would like to get in touch, I can be reached via email.
-
-### 👩🏻‍💻 What I Do
-
-I collaborate with scientists to design and code research tools like educational games, science gateways for software citation and data analysis applications.
-
-### 🌱 Goals
-
-I am building my skillset to:
-
-- Evolve as a full stack engineer, project manager, and interdisciplinary researcher
-- Mentor students in STEM
-- Improve STEM education accessibility and retention for underserved and underrepresented students
 
 ### ☕ Caffeinate Me
 Buy me a coffee: [https://ko-fi.com/caphein8](https://ko-fi.com/caphein8)
