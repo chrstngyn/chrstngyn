@@ -14,17 +14,6 @@ I am building my skillset to:
 - Mentor and teach students in STEM
 - Improve STEM education accessibility and retention for underserved and underrepresented students
 
-### ⚙️ Skills
-Coding Languages | Frontend     | DevOps    | Backend    | Mobile         | Frameworks/Systems/Software
----------------- | ------------ | --------- | ---------- | -------------- | ---------
-Typescript       | VueJS        | Docker    | Node       | Android Studio | Git
-Javascript       | React        | Travis CI | PostgreSQL | Native React   | Linux
-HTML/CSS         | Figma        | Jenkins   | Django     | Apache Cordova | Windows
-Python           | Bootstrap    |           | Jenkins    |  TypeORM       | JetBrains
-Java             | Gatsby       |           | Django     |                | Visual Studio
-C                | Hugo         |           |            |                | MATLAB
-MIPS Assembly    | Tailwind CSS |           |            |                | NVivo
-
 
 ### ☕ Caffeinate Me
 Buy me a coffee: [https://ko-fi.com/caphein8](https://ko-fi.com/caphein8)
