@@ -1,4 +1,4 @@
-## Software Engineer
+### Software Engineer
 📍 Phoenix, Arizona
 
 
@@ -12,9 +12,6 @@ Python           | Bootstrap    |           | Jenkins    |  TypeORM       | JetB
 Java             | Gatsby       |           | Django     |                | Visual Studio
 C                | Hugo         |           |            |                | MATLAB
 MIPS Assembly    | Tailwind CSS |           |            |                | NVivo
-                 |              |           |            |                | HDL Designer
-                 |              |           |            |                | ModelSim
-                 |              |           |            |                | Altera Quartus
 
 
 ### 👋🏼 Hello!
@@ -33,6 +30,5 @@ I am building my skillset to:
 - Mentor students in STEM
 - Improve STEM education accessibility and retention for underserved and underrepresented students
 
-### 💖 Let's Connect
-
-☕ Caffeinate me:  [https://ko-fi.com/caphein8](https://ko-fi.com/caphein8)
+### ☕ Caffeinate Me
+Buy me a coffee: [https://ko-fi.com/caphein8](https://ko-fi.com/caphein8)
