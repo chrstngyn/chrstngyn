@@ -1,6 +1,6 @@
 ### 👋🏼 Hello!
 
-Hi, I'm Christine! I am a software engineer at ASU Global Biosocial Complexity Initiative. Feel free to take a look around at my contributions and repos. If you would like to get in touch, I can be reached via email.
+Hi, I'm Christine! I am a software engineer at Global Biosocial Complexity Initiative. Feel free to take a look around at my contributions and repos. If you would like to get in touch, I can be reached via email.
 
 ### 👩🏻‍💻 What I Do
 
