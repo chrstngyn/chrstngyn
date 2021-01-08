@@ -17,7 +17,3 @@ I am building my skillset to:
 - Evolve as a full stack engineer, project manager and interdisciplinary researcher
 - Mentor and teach students in STEM
 - Improve STEM education accessibility and retention for underserved and underrepresented students
-
-
-### ☕ Caffeinate Me
-Buy me a coffee: [https://ko-fi.com/caphein8](https://ko-fi.com/caphein8)
