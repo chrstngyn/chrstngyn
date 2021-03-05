@@ -14,6 +14,6 @@ I collaborate with scientists to design and code research tools like educational
 
 I am building my skillset to:
 
-- Evolve as a full stack engineer, project manager and interdisciplinary researcher
+- Grow as a full stack engineer, project manager and interdisciplinary researcher
 - Mentor and teach students in STEM
 - Improve STEM education accessibility and retention for underserved and underrepresented students
