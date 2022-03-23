@@ -16,5 +16,5 @@ I am building my skillset to:
 
 - Grow as a full stack developer, project manager and interdisciplinary researcher
 - Improve STEM education accessibility and retention for underserved and underrepresented students
-- Teach foundational computational and data science skills to researchers
-- Pursue additional education to expand my own opportunities for professional and technical development
+- Teach foundational computational and data science skills to researchers via tech talks and workshops
+- Pursue additional education to expand my opportunities for professional and technical growth
