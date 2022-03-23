@@ -15,5 +15,6 @@ I collaborate with scientists to design and code research tools like educational
 I am building my skillset to:
 
 - Grow as a full stack developer, project manager and interdisciplinary researcher
-- Mentor and teach students in STEM
 - Improve STEM education accessibility and retention for underserved and underrepresented students
+- Teach foundational computational and data science skills to researchers
+- Pursue additional education to expand my own opportunities for professional and technical development
