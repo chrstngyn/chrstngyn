@@ -6,9 +6,6 @@ Hi, I'm Christine! I am a software engineer at Global Biosocial Complexity Initi
 
 I collaborate with scientists to design and code research tools like educational games, science gateways for software citation and data analysis applications.
 
-![](https://github.com/chrstngyn/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/chrstngyn/github-stats/blob/master/generated/languages.svg)
-
 
 ### 🌱 Goals
 
