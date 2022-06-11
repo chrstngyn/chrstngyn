@@ -1,6 +1,6 @@
 ### 👋🏼 Hello!
 
-Hi, I'm Christine! I am a software engineer at Global Biosocial Complexity Initiative. Feel free to take a look around at my contributions and [portfolio](https://app.milanote.com/1NzNBv1hOSms3s/christine-nguyen?p=62PCrLM1s09). If you would like to get in touch, I can be reached via email.
+Hi, I'm Christine! I am a software engineer at Global Biosocial Complexity Initiative. Feel free to take a look around at my contributions and [portfolio](https://christine-nguyen.super.site/). If you would like to get in touch, I can be reached via email.
 
 ### 👩🏻‍💻 What I Do
 
